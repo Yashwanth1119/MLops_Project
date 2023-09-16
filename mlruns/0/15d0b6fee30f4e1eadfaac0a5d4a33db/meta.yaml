@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/15d0b6fee30f4e1eadfaac0a5d4a33db/artifacts
+end_time: 1694876753952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d0b6fee30f4e1eadfaac0a5d4a33db
+run_name: dashing-shad-705
+run_uuid: 15d0b6fee30f4e1eadfaac0a5d4a33db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694876749980
+status: 3
+tags: []
+user_id: abc
